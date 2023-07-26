@@ -1,6 +1,6 @@
 <h1 align="center">Hola! Soy Camilo Vargas 👋</h1>
 <h3>
-Desarrollador front-end apasionado por enfrentarme a desafíos y aprender cosas nuevas. Me gusta trabajar en equipo y aprovechar las oportunidades para aprender de mis compañeros y mejorar mis habilidades. En mis últimos trabajos, he demostrado mi habilidad para crear soluciones innovadoras y elegantes utilizando tecnologías como las que verás a continuación. He tenido éxito en la implementación de proyectos complejos con un alto nivel de calidad.
+Desarrollador web, principalmente en el FrontEnd en busca de desafíos y constantemente aprendiendo cosas nuevas que me ayuden a mejorar mis habilidades. Me gusta trabajar en equipo y aprovechar las oportunidades para aprender de mis compañeros. Con mis conocmientos siempre busco soluciones innovadoras y elegantes utilizando tecnologías como las que verás a continuación.
 </h3>
 
 <h2 align="center">Tecnologías que conozco</h2>
