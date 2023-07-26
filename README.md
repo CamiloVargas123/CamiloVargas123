@@ -1,9 +1,11 @@
-<h1 align="center">Hola! Soy Camilo Vargas</h1>
+<h1 align="center">Hola! Soy Camilo Vargas 👋</h1>
 <h3 align="center">Desarrollador front-end apasionado por enfrentarme a desafíos y aprender cosas nuevas. Me encanta trabajar en equipo y aprovechar las oportunidades para aprender de mis compañeros y mejorar mis habilidades. En mis últimos trabajos, he demostrado mi habilidad para crear soluciones innovadoras y elegantes utilizando tecnologías como las que verás a continuación. He tenido éxito en la implementación de proyectos complejos con un alto nivel de calidad.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/camilovargas123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilovargas123" height="30" width="40" /></a>
+<h2 align="center">Contacta conmigo</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/cavargasl/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
