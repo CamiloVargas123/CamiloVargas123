@@ -1,6 +1,6 @@
 <h1 align="center">Hola! Soy Camilo Vargas 👋</h1>
 <h3>
-Desarrollador web, principalmente en el FrontEnd en busca de desafíos y constantemente aprendiendo cosas nuevas que me ayuden a mejorar mis habilidades. Me gusta trabajar en equipo y aprovechar las oportunidades para aprender de mis compañeros. Con mis conocmientos siempre busco soluciones innovadoras y elegantes utilizando tecnologías como las que verás a continuación.
+Desarrollador FrontEnd con más de 3 años de experiencia, especializado en React y Next.js. Me encanta aprender más y mejorar mi oficio con la práctica y el uso de la tecnología actual. Me gusta trabajar en equipo, compartir y traer nuevas formas de trabajar para llegar a soluciones creativas y eficientes. Mis habilidades incluyen un sólido conocimiento de HTML5, CSS3, TypeScript, y la capacidad de integrar API REST y GraphQL para crear aplicaciones dinámicas y de alto rendimiento.
 </h3>
 
 <h2 align="center">Tecnologías que conozco</h2>
